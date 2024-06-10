@@ -3,11 +3,11 @@
 
 ## Index 📂
 
-- [Description](#Description)
-- [Stack](#Stack)
-- [Features](#Features)
-- [Instalation](#Instalation)
-- [Author](#Author)
+- [Description](#description-)
+- [Stack](#stack-)
+- [Features](#features-)
+- [Instalation](#instalation-)
+- [Author](#author-️)
 
 ## Description ⚓
 
